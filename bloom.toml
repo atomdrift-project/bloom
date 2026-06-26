@@ -15,12 +15,12 @@ n = 132
 
 [filter.sha256-bad]
 file = "sha256-bad.adbl"
-sha256 = "f196fcc3843b49d9b2d1b547f1f6b56c3fa28224d6cdb72e48b1b9807e17459b"
+sha256 = "214b1cb3ba3e16f3e899068cfaf5d0791b1905a255060eb68af0c17196315f6c"
 format_version = 1
-n = 588880
+n = 1744973
 
 [filter.sha256-good]
 file = "sha256-good.adbl"
-sha256 = "7c373c7cdb444a598de78b7d455de2eae1848f7438e91abddaaf87ab2209cccc"
+sha256 = "b3333b37ee1a93e9a1899ef2b6a8164ccfe81ee3e7b6c41c3779cba25cd72fe8"
 format_version = 1
-n = 422197
+n = 1606314
