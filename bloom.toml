@@ -21,6 +21,6 @@ n = 1744592
 
 [filter.sha256-good]
 file = "sha256-good.adbl"
-sha256 = "c3d07dc48c8d77d589c763534bd0aa2ea42c334c6f0d19bc4d5b1764c3699e38"
+sha256 = "152ad153bfea714bdf2e5c70ac8fbb59d4fec1b07f8b6ff008288bbf96dbd968"
 format_version = 1
-n = 1830019
+n = 1830020
