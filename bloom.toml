@@ -9,9 +9,9 @@ n = 14393
 
 [filter.purl-good]
 file = "purl-good.adbl"
-sha256 = "b495ffe1178d26938ad27c180a44a03403f824152a30b60abf664c6ecf6b266a"
+sha256 = "ee1c24b86037986831beb791d314986e59842a93d6ee026030bc9ed2b0470c06"
 format_version = 1
-n = 90731
+n = 90756
 
 [filter.sha256-bad]
 file = "sha256-bad.adbl"
@@ -21,6 +21,6 @@ n = 1797899
 
 [filter.sha256-good]
 file = "sha256-good.adbl"
-sha256 = "e634c48c77cc5eaacbd5c333918f03d6c3d700cb506dc2d4d6b9a769f6ddf11c"
+sha256 = "1bf72c9a05ddd23956cde3c37f988c5c3482b25ed7f05f3e6b969729ad8d6da2"
 format_version = 1
-n = 1853968
+n = 1854013
