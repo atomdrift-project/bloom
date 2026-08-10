@@ -3,24 +3,24 @@ built = "2026-08-10"
 
 [filter.purl-bad]
 file = "purl-bad.adbl"
-sha256 = "ea7a4b0147fbfc7be21112272a1f0b6e5b4eded6b1f30ea38fa7033d085daa5f"
+sha256 = "d9b632d7e9233d4e3c3e10bf3a547de733c8aa5a274f59cf8686d659c9047c54"
 format_version = 1
-n = 16751
+n = 16761
 
 [filter.purl-good]
 file = "purl-good.adbl"
-sha256 = "45e22bbb1a3741d3ad0b64195dddb779694dcb0ac3ab2679634da422904ab860"
+sha256 = "5285b3ecd178722b731ac6c6bdfcbada5c91f56fa60a5573de1dcbd131b93c72"
 format_version = 1
-n = 122381
+n = 122466
 
 [filter.sha256-bad]
 file = "sha256-bad.adbl"
-sha256 = "5b9aa6f4295d6fd71e64cf45aa1a274a34757ae26d50df4198dc14b2ecdc09d0"
+sha256 = "5a72bf944af379a4728788f5c643944869c5128ac32f287cbbce9e4f59befa36"
 format_version = 1
-n = 1877583
+n = 1877629
 
 [filter.sha256-good]
 file = "sha256-good.adbl"
-sha256 = "96c6b155f739ac99cf9dcbef399f342479d058899d624522291b2527fbf8e032"
+sha256 = "65c3b35229dc2ef7967be952c058f173853447b6560149640f345112df2b8018"
 format_version = 1
-n = 3032613
+n = 3034438
