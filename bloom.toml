@@ -1,5 +1,5 @@
 schema = 1
-built = "2026-08-22"
+built = "2026-08-23"
 
 [filter.purl-bad]
 file = "purl-bad.adbl"
@@ -9,9 +9,9 @@ n = 17764
 
 [filter.purl-good]
 file = "purl-good.adbl"
-sha256 = "fdd12bbdd443509ed488ccf3765ec838078578078d3bf20e8f1ea95a93372e99"
+sha256 = "20636bb4fcf4099d5270ec7c83b5c2db90279004465d72c4db1fe7c213cecb31"
 format_version = 1
-n = 141954
+n = 141959
 
 [filter.sha256-bad]
 file = "sha256-bad.adbl"
@@ -21,6 +21,6 @@ n = 1884543
 
 [filter.sha256-good]
 file = "sha256-good.adbl"
-sha256 = "f5231d978641c806312056deb33d4a8e9c1a6fb0db6e4aefc7156d1c6f30b060"
+sha256 = "2a9c82960a011cb25f5b4674aa89ea608bc1ff75a8d0d8624834e71dc925ae92"
 format_version = 1
-n = 3488008
+n = 3488013
